@@ -1,0 +1,90 @@
+{
+  "logo": "/Assets/HomeAssets/logo.png",
+  "slides": [
+      {
+          "image": "/Assets/ImageSlider/GS.png",
+          "title": "Gulf Section",
+          "description": "Precision-crafted aluminum solutions for Gulf applications."
+      },
+      {
+          "image": "/Assets/ImageSlider/KS.jpg",
+          "title": "Kitchen Section",
+          "description": "Premium-grade aluminum designs for modern kitchens."
+      },
+      {
+          "image": "/Assets/ImageSlider/LS.png",
+          "title": "Ladder Section",
+          "description": "Strong & durable aluminum ladders for industrial use."
+      },
+      {
+          "image": "/Assets/ImageSlider/loS.png",
+          "title": "Louver Section",
+          "description": "Innovative aluminum louvers for ventilation & aesthetics."
+      },
+      {
+          "image": "/Assets/ImageSlider/AS.png",
+          "title": "Architectural Section",
+          "description": "Engineered architectural aluminum for strength & beauty."
+      },
+      {
+          "image": "/Assets/ImageSlider/SS.png",
+          "title": "Solar Section",
+          "description": "Eco-friendly aluminum frames for sustainable solar energy."
+      }
+  ],
+  "sections": [
+      {
+          "title": "Casement Window",
+          "img": "/Assets/HomeAssets/CasementWindow.png",
+          "link": "/casement-window"
+      },
+      {
+          "title": "Sliding Window",
+          "img": "/Assets/HomeAssets/SlidingWindow.png",
+          "link": "/sliding-window"
+      },
+      {
+          "title": "Board Partition Sections",
+          "img": "/Assets/HomeAssets/Partion_image.png",
+          "link": "/bps"
+      },
+      {
+          "title": "Mosquito & Safety Sections",
+          "img": "/Assets/HomeAssets/Mosqitoe.png",
+          "link": "/mos-safety"
+      },
+      {
+          "title": "Railing Section",
+          "img": "/Assets/HomeAssets/Railing.png",
+          "link": "/railing"
+      }
+  ],
+  "overview": [
+      {
+          "image": "/Assets/ImageSlider/CO.png",
+          "title": "Company Overview",
+          "alt": "Company Overview"
+      }
+  ],
+  "manufacturing": [
+      {
+          "image": "/Assets/HomeAssets/MF.png",
+          "title": "Manufacturing Facility",
+          "alt": "Manufacturing Facility"
+      }
+  ],
+  "companyTeam": [
+      {
+          "image": "/Assets/HomeAssets/CompanyTeam.png",
+          "title": "Our Team",
+          "alt": "Company Team"
+      }
+  ],
+  "certificates": [
+      {
+          "image": "/Assets/HomeAssets/iso2025-26.png",
+          "title": "ISO 2025-2026 Certification",
+          "description": "Certified for excellence in quality management and sustainability, ensuring compliance with global standards."
+      }
+  ]
+}

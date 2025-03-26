@@ -1,0 +1,107 @@
+[
+  {
+    "category": "16 × 45",
+    "src": "/Assets/Partion_Section/16by45-1.png",
+    "name": "16 × 45 Slim Partition - 1",
+    "spec": "Weight: 1.150 Kg/12'",
+    "section": "AA-161"
+  },
+  {
+    "category": "16 × 45",
+    "src": "/Assets/Partion_Section/16by45-2.png",
+    "name": "16 × 45 Slim Partition - 2",
+    "spec": "Weight: 2.200 Kg/12'",
+    "section": "AA-162"
+  },
+  {
+    "category": "16 × 45",
+    "src": "/Assets/Partion_Section/16by45-3.png",
+    "name": "16 × 45 Slim Partition - 3",
+    "spec": "Weight: 3.000 Kg/12'",
+    "section": "AA-163"
+  },
+  {
+    "category": "16 × 45",
+    "src": "/Assets/Partion_Section/16by45-4.png",
+    "name": "16 × 45 Slim Partition - 4",
+    "spec": "Weight: 2.700 Kg/12'",
+    "section": "AA-164"
+  },
+  {
+    "category": "16 × 45",
+    "src": "/Assets/Partion_Section/16by45-5.png",
+    "name": "16 × 45 Slim Partition - 5",
+    "spec": "Weight: 1.050 Kg/12'",
+    "section": "AA-165"
+  },
+  {
+    "category": "16 × 45",
+    "src": "/Assets/Partion_Section/16by45-6.png",
+    "name": "16 × 45 Slim Partition - 6",
+    "spec": "Weight: 2.900 Kg/12'",
+    "section": "AA-166"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-1.png",
+    "name": "25 × 45 Slim Partition - 1",
+    "spec": "Weight: 2.000 Kg/12'",
+    "section": "AA-451"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-2.png",
+    "name": "25 × 45 Slim Partition - 2",
+    "spec": "Weight: 1.640 Kg/12'",
+    "section": "AA-452"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-3.png",
+    "name": "25 × 45 Slim Partition - 3",
+    "spec": "Weight: 2.660 Kg/12'",
+    "section": "AA-453"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-4.png",
+    "name": "25 × 45 Slim Partition - 4",
+    "spec": "Weight: 0.550 Kg/12'",
+    "section": "AA-454"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-5.png",
+    "name": "25 × 45 Slim Partition - 5",
+    "spec": "Weight: 0.600 Kg/12'",
+    "section": "AA-455"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-6.png",
+    "name": "25 × 45 Slim Partition - 6",
+    "spec": "Weight: 3.000 Kg/12'",
+    "section": "AA-456"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-7.png",
+    "name": "25 × 45 Slim Partition - 7",
+    "spec": "Weight: 4.160 Kg/12'",
+    "section": "AA-457"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-8.png",
+    "name": "25 × 45 Slim Partition - 8",
+    "spec": "Weight: 1.490 Kg/12'",
+    "section": "AA-458"
+  },
+  {
+    "category": "25 × 45",
+    "src": "/Assets/Partion_Section/25by45-9.png",
+    "name": "25 × 45 Slim Partition - 9",
+    "spec": "Weight: 0.720 Kg/12'",
+    "section": "AA-459"
+  }
+]

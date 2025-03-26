@@ -1,0 +1,98 @@
+[
+    {
+        "src": "/Assets/Railing_section/Die-1.png",
+        "name": "25mm Top Rail",
+        "section": "AA-R-0001",
+        "weight": "2.000 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-2.png",
+        "name": "40mm Square Top Rail",
+        "section": "AA-R-0002",
+        "weight": "2.900 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-3.png",
+        "name": "50mm Square Top",
+        "section": "AA-R-0003",
+        "weight": "3.750 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-4.png",
+        "name": "50mm Square Top",
+        "section": "AA-R-0004",
+        "weight": "3.500 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-5.png",
+        "name": "50mm Round Top",
+        "section": "AA-R-0005",
+        "weight": "3.300 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-6.png",
+        "name": "78 x 50 mm Bottom Rail",
+        "section": "AA-R-0006",
+        "weight": "13.300 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-7.png",
+        "name": "Incline Railing Pipe",
+        "section": "AA-R-0007",
+        "weight": "4.700 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-8.png",
+        "name": "38mm Top Railing",
+        "section": "AA-R-0008",
+        "weight": "1.700 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-9.png",
+        "name": "80mm x 40mm Bottom Section",
+        "section": "AA-R-0009",
+        "weight": "9.800 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-10.png",
+        "name": "100mm x 45mm Bottom Section",
+        "section": "AA-R-0010",
+        "weight": "14.600 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-11.png",
+        "name": "55mm x 55mm Bottom Railing",
+        "section": "AA-R-0011",
+        "weight": "7.300 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-12.png",
+        "name": "66 mm x 66 mm Railing",
+        "section": "AA-R-012",
+        "weight": "9.450 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-13.png",
+        "name": "T Bracket",
+        "section": "AA-R-0013",
+        "weight": "21.100 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-14.png",
+        "name": "75mm x 50mm Bottom Section",
+        "section": "AA-R-014",
+        "weight": "13.600 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-15.png",
+        "name": "75mm x 50mm Bottom Section",
+        "section": "AA-R-0015",
+        "weight": "1.850 Kg/12'"
+    },
+    {
+        "src": "/Assets/Railing_section/Die-16.png",
+        "name": "75mm x 50mm Bottom Section",
+        "section": "AA-R-0016",
+        "weight": "9.450 Kg/12'"
+    }
+]

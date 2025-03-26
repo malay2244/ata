@@ -1,0 +1,339 @@
+[
+    {
+        "category": "Casement 28mm",
+        "name": "Casement Shutter",
+        "section": "AA-28001",
+        "src": "/Assets/Openable_window//29_Casement-1.png",
+        "weight": "1.750 Kg/12'"
+      },
+      {
+        "category": "Casement 28mm",
+        "name": "Casement Mullion",
+        "section": "AA-28002",
+        "src": "/Assets/Openable_window//29_Casement-2.png",
+        "weight": "1.800 Kg/12'"
+      },
+      {
+        "category": "Casement 28mm",
+        "name": "Casement Frame",
+        "section": "AA-28003",
+        "src": "/Assets/Openable_window//29_Casement-3.png",
+        "weight": "1.500 Kg/12'"
+      },
+      {
+        "category": "Casement 28mm",
+        "name": "Casement Clip",
+        "section": "AA-28004",
+        "src": "/Assets/Openable_window//29_Casement-4.png",
+        "weight": "0.820 Kg/12'"
+      },             
+
+    {
+    "category": "40mm Openable Casement",
+    "name": "40mm Frame",
+    "section": "AA-40001",
+    "src": "/Assets/Openable_window/40_Open-1.png",
+    "weight": "1.800 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Mullion",
+    "section": "AA-40002",
+    "src": "/Assets/Openable_window/40_Open-2.png",
+    "weight": "2.320 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Big Mullion",
+    "section": "AA-40003",
+    "src": "/Assets/Openable_window/40_Open-3.png",
+    "weight": "2.900 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Groove Mullion",
+    "section": "AA-40004",
+    "src": "/Assets/Openable_window/40_Open-4.png",
+    "weight": "3.000 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "51 x 40 mm Shutter",
+    "section": "AA-40005",
+    "src": "/Assets/Openable_window/40_Open-5.png",
+    "weight": "2.850 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "65 x 40 mm Shutter",
+    "section": "AA-40006",
+    "src": "/Assets/Openable_window/40_Open-6.png",
+    "weight": "2.850 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Big Shutter",
+    "section": "AA-40007",
+    "src": "/Assets/Openable_window/40_Open-7.png",
+    "weight": "3.000 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm 2 in 1 Frame with Grill",
+    "section": "AA-40008",
+    "src": "/Assets/Openable_window/40_Open-8.png",
+    "weight": "4.100 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "80mm 2 in 1 Mullion",
+    "section": "AA-40009",
+    "src": "/Assets/Openable_window/40_Open-9.png",
+    "weight": "4.800 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm 3 in 1 Frame with Grill",
+    "section": "AA-40010",
+    "src": "/Assets/Openable_window/40_Open-10.png",
+    "weight": "4.950 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "92mm 3 in 1 Mullion",
+    "section": "AA-40011",
+    "src": "/Assets/Openable_window/40_Open-11.png",
+    "weight": "5.210 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Door Bottom",
+    "section": "AA-40012",
+    "src": "/Assets/Openable_window/40_Open-12.png",
+    "weight": "3.850 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "Fly Mullion",
+    "section": "AA-40013",
+    "src": "/Assets/Openable_window/40_Open-13.png",
+    "weight": "2.450 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "SGU Clip",
+    "section": "AA-40014",
+    "src": "/Assets/Openable_window/40_Open-14.png",
+    "weight": "0.800 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "DGU Clip",
+    "section": "AA-40015",
+    "src": "/Assets/Openable_window/40_Open-15.png",
+    "weight": "0.700 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Reverse Clip / Adapter",
+    "section": "AA-40016",
+    "src": "/Assets/Openable_window/40_Open-16.png",
+    "weight": "1.500 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "40mm Bottom Clip",
+    "section": "AA-40017",
+    "src": "/Assets/Openable_window/40_Open-17.png",
+    "weight": "1.100 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "Capsule Pipe",
+    "section": "AA-27030",
+    "src": "/Assets/Openable_window/40_Open-18.png",
+    "weight": "1.300 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "38 X 38 mm Box Pipe",
+    "section": "AA-27031",
+    "src": "/Assets/Openable_window/40_Open-19.png",
+    "weight": "1.550 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "Round Pipe",
+    "section": "AA-25032",
+    "src": "/Assets/Openable_window/40_Open-20.png",
+    "weight": "0.750 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "35 x 18 mm Pipe",
+    "section": "AA-25033",
+    "src": "/Assets/Openable_window/40_Open-21.png",
+    "weight": "1.800 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "Capsule Pipe",
+    "section": "AA-27034",
+    "src": "/Assets/Openable_window/40_Open-22.png",
+    "weight": "0.800 Kg/12'"
+  },
+  {
+    "category": "40mm Openable Casement",
+    "name": "38mm x 38mm Angle",
+    "section": "AA-27035",
+    "src": "/Assets/Openable_window/40_Open-23.png",
+    "weight": "2.038 Kg/12'"
+  },        
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm Outer Frame",
+  "section": "AA-50007",
+  "src": "/Assets/Openable_window/50_1.png",
+  "weight": "3.150 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm Door Frame",
+  "section": "AA-50008",
+  "src": "/Assets/Openable_window/50_2.png",
+  "weight": "3.920 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm x 65mm Mullion",
+  "section": "AA-50009",
+  "src": "/Assets/Openable_window/50_3.png",
+  "weight": "3.700 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm x 90mm Mullion",
+  "section": "AA-50010",
+  "src": "/Assets/Openable_window/50_4.png",
+  "weight": "4.460 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm Shutter",
+  "section": "AA-50011",
+  "src": "/Assets/Openable_window/50_5.png",
+  "weight": "4.300 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm Outside Opening Door Shutter",
+  "section": "AA-50012",
+  "src": "/Assets/Openable_window/50_6.png",
+  "weight": "6.320 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm Inside Opening Door Shutter",
+  "section": "AA-50013",
+  "src": "/Assets/Openable_window/50_7.png",
+  "weight": "5.200 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "50mm Door Bottom",
+  "section": "AA-50014",
+  "src": "/Assets/Openable_window/50_8.png",
+  "weight": "6.300 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "85mm Mullion",
+  "section": "AA-50015",
+  "src": "/Assets/Openable_window/50_9.png",
+  "weight": "4.800 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "86mm Frame",
+  "section": "AA-50016",
+  "src": "/Assets/Openable_window/50_10.png",
+  "weight": "6.000 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "SGU Clip (4mm - 10mm)",
+  "section": "AA-50017",
+  "src": "/Assets/Openable_window/50_11.png",
+  "weight": "0.990 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "DGU Clip (18mm - 24mm)",
+  "section": "AA-50018",
+  "src": "/Assets/Openable_window/50_12.png",
+  "weight": "0.750 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "Door Bottom Adaptor",
+  "section": "AA-50019",
+  "src": "/Assets/Openable_window/50_13.png",
+  "weight": "1.950 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "Fly Mullion",
+  "section": "AA-50020",
+  "src": "/Assets/Openable_window/50_14.png",
+  "weight": "2.670 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "Reverse Clip / Adapter",
+  "section": "AA-50021",
+  "src": "/Assets/Openable_window/50_15.png",
+  "weight": "1.850 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "Capsule Pipe",
+  "section": "AA-27034",
+  "src": "/Assets/Openable_window/50_16.png",
+  "weight": "1.300Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "38 X 38 mm Box Pipe",
+  "section": "AA-27031",
+  "src": "/Assets/Openable_window/50_17.png",
+  "weight": "1.550 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "Round Pipe",
+  "section": "AA-25032",
+  "src": "/Assets/Openable_window/50_18.png",
+  "weight": "0.750 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "35 X 18 mm Pipe",
+  "section": "AA-25033",
+  "src": "/Assets/Openable_window/50_19.png",
+  "weight": "1.800 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "Capsule Pipe",
+  "section": "AA-27034",
+  "src": "/Assets/Openable_window/50_20.png",
+  "weight": "0.800 Kg/12'"
+},
+{
+  "category": "50mm Openable Window Series",
+  "name": "38mm X 38mm Angle",
+  "section": "AA-27035",
+  "src": "/Assets/Openable_window/50_21.png",
+  "weight": "2.038 Kg/12'"
+}
+]

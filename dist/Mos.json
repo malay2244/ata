@@ -1,0 +1,44 @@
+[
+    {
+        "src": "/Assets/Mosquitoe_section/Die-1.png",
+        "name": "Invisible Male Section",
+        "section": "AA-1001",
+        "weight": "2.550 Kg/12'"
+    },
+    {
+        "src": "/Assets/Mosquitoe_section/Die-2.png",
+        "name": "Invisible Female Section",
+        "section": "AA-1002",
+        "weight": "0.400 Kg/12'"
+    },
+    {
+        "src": "/Assets/Mosquitoe_section/Die-3.png",
+        "name": "Arebian Channel",
+        "section": "AA-1003",
+        "weight": "0.646 Kg/12'"
+    },
+    {
+        "src": "/Assets/Mosquitoe_section/Die-4.png",
+        "name": "M Track Channel",
+        "section": "AA-1004",
+        "weight": "0.650 Kg/12'"
+    },
+    {
+        "src": "/Assets/Mosquitoe_section/Die-5.png",
+        "name": "Mosquitoe Top",
+        "section": "AA-1005",
+        "weight": "1.200 Kg/12'"
+    },
+    {
+        "src": "/Assets/Mosquitoe_section/Die-6.png",
+        "name": "Mosquitoe Slider",
+        "section": "AA-1006",
+        "weight": "1.000 Kg/12'"
+    },
+    {
+        "src": "/Assets/Mosquitoe_section/Die-7.png",
+        "name": "Mosquitoe Handle",
+        "section": "AA-1007",
+        "weight": "1.800 Kg/12'"
+    }
+]

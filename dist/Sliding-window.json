@@ -1,0 +1,1170 @@
+
+[
+  
+    {
+      "category": "Domal 20mm",
+      "name": "20mm Two Track",
+      "section": "AA-20001",
+      "src": "/Assets/Window_section/Domal_20-1.png",
+      "weight": "2.200 Kg/12'"
+    },
+    {
+      "category": "Domal 20mm",
+      "name": "20mm Three Track",
+      "section": "AA-20002",
+      "src": "/Assets/Window_section/Domal_20-2.png",
+      "weight": "3.000 Kg/12'"
+    },
+    {
+      "category": "Domal 20mm",
+      "name": "20mm Shutter",
+      "section": "AA-20003",
+      "src": "/Assets/Window_section/Domal_20-3.png",
+      "weight": "2.100 Kg/12'"
+    },
+    {
+      "category": "Domal 20mm",
+      "name": "20mm Clip",
+      "section": "AA-20004",
+      "src": "/Assets/Window_section/Domal_20-4.png",
+      "weight": "0.850 Kg/12'"
+    },
+    {
+      "category": "Domal 22mm",
+      "name": "22mm Two Track",
+      "section": "AA-22001",
+      "src": "/Assets/Window_section/Domal_22-1.png",
+      "weight": "2.320 Kg/12'"
+    },
+    {
+      "category": "Domal 22mm",
+      "name": "22mm Three Track",
+      "section": "AA-22002",
+      "src": "/Assets/Window_section/Domal_22-2.png",
+      "weight": "3.600 Kg/12'"
+    },
+    {
+      "category": "Domal 22mm",
+      "name": "22mm Shutter",
+      "section": "AA-22003",
+      "src": "/Assets/Window_section/Domal_22-3.png",
+      "weight": "2.360 Kg/12'"
+    },
+    {
+      "category": "Domal 22mm",
+      "name": "22mm Clip",
+      "section": "AA-22004",
+      "src": "/Assets/Window_section/Domal_22-4.png",
+      "weight": "0.940 Kg/12'"
+    },
+    
+          {
+            "category": "Domal 27mm",
+            "name": "Two Track",
+            "section": "AA-27015",
+            "src": "/Assets/Window_section/27_Domal-1.png",
+            "weight": "2.850 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Three Track",
+            "section": "AA-27016",
+            "src": "/Assets/Window_section/27_Domal-2.png",
+            "weight": "4.200 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Round Two Track With Leg",
+            "section": "AA-27017",
+            "src": "/Assets/Window_section/27_Domal-3.png",
+            "weight": "4.350 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Round Three Track With Leg",
+            "section": "AA-27018",
+            "src": "/Assets/Window_section/27_Domal-4.png",
+            "weight": "6.600 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Additional Track",
+            "section": "AA-27019",
+            "src": "/Assets/Window_section/27_Domal-5.png",
+            "weight": "2.049 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Euro Two Track With Leg",
+            "section": "AA-27020",
+            "src": "/Assets/Window_section/27_Domal-6.png",
+            "weight": "3.930 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Euro Three Track With Leg",
+            "section": "AA-27021",
+            "src": "/Assets/Window_section/27_Domal-7.png",
+            "weight": "6.450 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Two Track With Grill",
+            "section": "AA-27022",
+            "src": "/Assets/Window_section/27_Domal-8.png",
+            "weight": "3.820 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Three Track With Grill",
+            "section": "AA-27023",
+            "src": "/Assets/Window_section/27_Domal-9.png",
+            "weight": "5.620 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "SGU Shutter",
+            "section": "AA-27024",
+            "src": "/Assets/Window_section/27_Domal-10.png",
+            "weight": "2.850 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "DGU Shutter",
+            "section": "AA-27025",
+            "src": "/Assets/Window_section/27_Domal-11.png",
+            "weight": "2.650 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "SGU Shutter",
+            "section": "AA-27026",
+            "src": "/Assets/Window_section/27_Domal-12.png",
+            "weight": "2.750 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Inter Clip",
+            "section": "AA-27027",
+            "src": "/Assets/Window_section/27_Domal-13.png",
+            "weight": "1.120 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Double Inter Lock",
+            "section": "AA-27028",
+            "src": "/Assets/Window_section/27_Domal-14.png",
+            "weight": "1.700 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Mosquito Clip",
+            "section": "AA-27029",
+            "src": "/Assets/Window_section/27_Domal-15.png",
+            "weight": "0.260 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "27mm Mosquito U Channel",
+            "section": "AA-27030",
+            "src": "/Assets/Window_section/27_Domal-16.png",
+            "weight": "0.460 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "27mm Meeting Section",
+            "section": "AA-27011",
+            "src": "/Assets/Window_section/27_Domal-17.png",
+            "weight": "0.750 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Capsule Pipe",
+            "section": "AA-27031",
+            "src": "/Assets/Window_section/27_Domal-18.png",
+            "weight": "1.300 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "38 X 38 mm Box Pipe",
+            "section": "AA-27032",
+            "src": "/Assets/Window_section/27_Domal-19.png",
+            "weight": "1.550 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Round Pipe",
+            "section": "AA-27033",
+            "src": "/Assets/Window_section/27_Domal-20.png",
+            "weight": "0.750 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "35 X 18 mm Pipe",
+            "section": "AA-27034",
+            "src": "/Assets/Window_section/27_Domal-21.png",
+            "weight": "1.800 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Capsule Pipe",
+            "section": "AA-27035",
+            "src": "/Assets/Window_section/27_Domal-22.png",
+            "weight": "0.800 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "38mm X 38mm Angle",
+            "section": "AA-27036",
+            "src": "/Assets/Window_section/27_Domal-23.png",
+            "weight": "2.038 Kg/12'"
+          },
+          {
+            "category": "Domal 27mm",
+            "name": "Georgian Bar",
+            "section": "AA-25024",
+            "src": "/Assets/Window_section/27_Domal-24.png",
+            "weight": "0.266 Kg/12'"
+          },
+          {
+    "category": "Ventana 23mm",
+    "name": "23mm Two Track",
+    "section": "AA-23001",
+    "src": "/Assets/Window_section/23_Ventana-1.png",
+    "weight": "2.100 Kg/12'"
+  },
+  {
+    "category": "Ventana 23mm",
+    "name": "23mm Three Track",
+    "section": "AA-23002",
+    "src": "/Assets/Window_section/23_Ventana-2.png",
+    "weight": "3.550 Kg/12'"
+  },
+  {
+    "category": "Ventana 23mm",
+    "name": "23mm Shutter",
+    "section": "AA-23003",
+    "src": "/Assets/Window_section/23_Ventana-3.png",
+    "weight": "2.750 Kg/12'"
+  },
+  {
+    "category": "Ventana 23mm",
+    "name": "23mm Inter Lock",
+    "section": "AA-23004",
+    "src": "/Assets/Window_section/23_Ventana-4.png",
+    "weight": "0.780 Kg/12'"
+  },
+      {
+      "category": "Ventana 25mm",
+      "name": "Two Track",
+      "section": "AA-25001",
+      "src": "/Assets/Window_section/25_ventara-1.png",
+      "weight": "2.850 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Two Track With Leg",
+      "section": "AA-25002",
+      "src": "/Assets/Window_section/25_ventara-2.png",
+      "weight": "3.850 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Three Track",
+      "section": "AA-25003",
+      "src": "/Assets/Window_section/25_ventara-3.png",
+      "weight": "4.500 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Three Track With Leg",
+      "section": "AA-25004",
+      "src": "/Assets/Window_section/25_ventara-4.png",
+      "weight": "5.420 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "SGU Shutter",
+      "section": "AA-25005",
+      "src": "/Assets/Window_section/25_ventara-5.png",
+      "weight": "2.700 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "DGU Shutter",
+      "section": "AA-25006",
+      "src": "/Assets/Window_section/25_ventara-6.png",
+      "weight": "2.400 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Mosquito Shutter",
+      "section": "AA-25007",
+      "src": "/Assets/Window_section/25_ventara-7.png",
+      "weight": "2.550 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Reinforcement DGU Slim Interlock",
+      "section": "AA-25008",
+      "src": "/Assets/Window_section/25_ventara-8.png",
+      "weight": "2.200 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Reinforcement SGU Slim Interlock",
+      "section": "AA-25009",
+      "src": "/Assets/Window_section/25_ventara-9.png",
+      "weight": "2.400 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Reinforcement SGU Slim Box Interlock",
+      "section": "AA-25010",
+      "src": "/Assets/Window_section/25_ventara-10.png",
+      "weight": "3.825 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Reinforcement DGU Slim Box Interlock",
+      "section": "AA-25011",
+      "src": "/Assets/Window_section/25_ventara-11.png",
+      "weight": "3.540 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "DGU Slim Interlock",
+      "section": "AA-25012",
+      "src": "/Assets/Window_section/25_ventara-12.png",
+      "weight": "1.500 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "SGU Slim Interlock",
+      "section": "AA-25013",
+      "src": "/Assets/Window_section/25_ventara-13.png",
+      "weight": "1.650 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Interlock Clip",
+      "section": "AA-25014",
+      "src": "/Assets/Window_section/25_ventara-14.png",
+      "weight": "1.200 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Mosquito Shutter Clip",
+      "section": "AA-25015",
+      "src": "/Assets/Window_section/25_ventara-15.png",
+      "weight": "0.480 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Additional Track",
+      "section": "AA-25016",
+      "src": "/Assets/Window_section/25_ventara-16.png",
+      "weight": "1.300 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Mosquito Clip",
+      "section": "AA-25017",
+      "src": "/Assets/Window_section/25_ventara-17.png",
+      "weight": "0.272 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Reducer Clip",
+      "section": "AA-25018",
+      "src": "/Assets/Window_section/25_ventara-18.png",
+      "weight": "0.520 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Mosquito Slim Interlock Shutter",
+      "section": "AA-25019",
+      "src": "/Assets/Window_section/25_ventara-19.png",
+      "weight": "1.900 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Track Rail Cap",
+      "section": "AA-25020",
+      "src": "/Assets/Window_section/25_ventara-20.png",
+      "weight": "0.630 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Track Rail Cap",
+      "section": "AA-25021",
+      "src": "/Assets/Window_section/25_ventara-21.png",
+      "weight": "0.450 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Locking Rod",
+      "section": "AA-25022",
+      "src": "/Assets/Window_section/25_ventara-22.png",
+      "weight": "0.450 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Middle Section",
+      "section": "AA-25023",
+      "src": "/Assets/Window_section/25_ventara-23.png",
+      "weight": "2.230 Kg/12'"
+    },
+    {
+      "category": "Ventana 25mm",
+      "name": "Georgian Bar",
+      "section": "AA-25024",
+      "src": "/Assets/Window_section/25_ventara-24.png",
+      "weight": "0.266 Kg/12'"
+    },  
+
+      {
+        "category": "Ventana 27mm",
+        "name": "Ventana Two Track",
+        "section": "AA-27001",
+        "src": "/Assets/Window_section/27_ventara-1.png",
+        "weight": "3.100 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "Ventana Three Track",
+        "section": "AA-27002",
+        "src": "/Assets/Window_section/27_ventara-2.png",
+        "weight": "5.100 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "SGU Shutter",
+        "section": "AA-27003",
+        "src": "/Assets/Window_section/27_ventara-3.png",
+        "weight": "3.000 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "DGU Shutter",
+        "section": "AA-27004",
+        "src": "/Assets/Window_section/27_ventara-4.png",
+        "weight": "2.800 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "SGU Slim Interlock",
+        "section": "AA-27005",
+        "src": "/Assets/Window_section/27_ventara-5.png",
+        "weight": "2.000 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "DGU Slim Interlock",
+        "section": "AA-27006",
+        "src": "/Assets/Window_section/27_ventara-6.png",
+        "weight": "2.000 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "DGU Slim Reinforcement Interlock",
+        "section": "AA-27007",
+        "src": "/Assets/Window_section/27_ventara-7.png",
+        "weight": "3.950 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "Reducer Cap",
+        "section": "AA-27008",
+        "src": "/Assets/Window_section/27_ventara-8.png",
+        "weight": "0.750 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "27mm L Connector",
+        "section": "AA-27009",
+        "src": "/Assets/Window_section/27_ventara-9.png",
+        "weight": "4.300 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "Track Rail Cap",
+        "section": "AA-27010",
+        "src": "/Assets/Window_section/27_ventara-10.png",
+        "weight": "0.630 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "27mm Meeting Section",
+        "section": "AA-27011",
+        "src": "/Assets/Window_section/27_ventara-11.png",
+        "weight": "0.750 Kg/12'"
+      },
+      {
+        "category": "Ventana 27mm",
+        "name": "Georgian Bar",
+        "section": "AA-25024",
+        "src": "/Assets/Window_section/27_ventara-12.png",
+        "weight": "0.266 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Ventana Two Track",
+        "section": "AA-29001",
+        "src": "/Assets/Window_section/29_ventara-1.png",
+        "weight": "4.500 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Two Track with Leg",
+        "section": "AA-29002",
+        "src": "/Assets/Window_section/29_ventara-2.png",
+        "weight": "4.700 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Three Track",
+        "section": "AA-29003",
+        "src": "/Assets/Window_section/29_ventara-3.png",
+        "weight": "6.400 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Three Track With Leg",
+        "section": "AA-29004",
+        "src": "/Assets/Window_section/29_ventara-4.png",
+        "weight": "6.500 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm SGU Shutter",
+        "section": "AA-29005",
+        "src": "/Assets/Window_section/29_ventara-5.png",
+        "weight": "3.432 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm DGU Shutter",
+        "section": "AA-29006",
+        "src": "/Assets/Window_section/29_ventara-6.png",
+        "weight": "3.000 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Mosquito Shutter",
+        "section": "AA-29007",
+        "src": "/Assets/Window_section/29_ventara-7.png",
+        "weight": "3.591 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Mosquito Clip",
+        "section": "AA-29008",
+        "src": "/Assets/Window_section/29_ventara-8.png",
+        "weight": "0.493 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Inter Clip",
+        "section": "AA-29009",
+        "src": "/Assets/Window_section/29_ventara-9.png",
+        "weight": "1.356 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Slim SGU Inter Lock",
+        "section": "AA-29010",
+        "src": "/Assets/Window_section/29_ventara-10.png",
+        "weight": "1.860 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Slim DGU Inter Lock",
+        "section": "AA-29011",
+        "src": "/Assets/Window_section/29_ventara-11.png",
+        "weight": "1.450 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm SGU Reinforcement Inter Lock",
+        "section": "AA-29012",
+        "src": "/Assets/Window_section/29_ventara-12.png",
+        "weight": "3.500 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm DGU Reinforcement Inter Lock",
+        "section": "AA-29013",
+        "src": "/Assets/Window_section/29_ventara-13.png",
+        "weight": "3.400 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Double Inter Lock",
+        "section": "AA-29014",
+        "src": "/Assets/Window_section/29_ventara-14.png",
+        "weight": "2.280 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "Reducer Cap",
+        "section": "AA-29015",
+        "src": "/Assets/Window_section/29_ventara-15.png",
+        "weight": "0.800 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Middle Section",
+        "section": "AA-29016",
+        "src": "/Assets/Window_section/29_ventara-16.png",
+        "weight": "2.460 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Meeting Section",
+        "section": "AA-29017",
+        "src": "/Assets/Window_section/29_ventara-17.png",
+        "weight": "1.550 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Rail Track (V Type)",
+        "section": "AA-29018",
+        "src": "/Assets/Window_section/29_ventara-18.png",
+        "weight": "0.600 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "29mm Round Track Cap",
+        "section": "AA-29019",
+        "src": "/Assets/Window_section/29_ventara-19.png",
+        "weight": "0.620 Kg/12'"
+      },
+      {
+        "category": "Ventana 29 mm",
+        "name": "Georgian Bar",
+        "section": "AA-25024",
+        "src": "/Assets/Window_section/29_ventara-20.png",
+        "weight": "0.266 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Slim Two Track",
+        "section": "AA-29021",
+        "src": "/Assets/Window_section/29_slim-1.png",
+        "weight": "2.700 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Slim Three Track",
+        "section": "AA-29022",
+        "src": "/Assets/Window_section/29_slim-2.png",
+        "weight": "4.050 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm SGU Shutter",
+        "section": "AA-29005",
+        "src": "/Assets/Window_section/29_slim-3.png",
+        "weight": "3.432 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm DGU Shutter",
+        "section": "AA-29006",
+        "src": "/Assets/Window_section/29_slim-4.png",
+        "weight": "3.000 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Mosquito Shutter",
+        "section": "AA-29007",
+        "src": "/Assets/Window_section/29_slim-5.png",
+        "weight": "3.591 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Mosquito Clip",
+        "section": "AA-29008",
+        "src": "/Assets/Window_section/29_slim-6.png",
+        "weight": "0.493 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Inter Clip",
+        "section": "AA-29009",
+        "src": "/Assets/Window_section/29_slim-7.png",
+        "weight": "1.356 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Slim SGU Inter Lock",
+        "section": "AA-29010",
+        "src": "/Assets/Window_section/29_slim-8.png",
+        "weight": "1.860 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Slim DGU Inter Lock",
+        "section": "AA-29011",
+        "src": "/Assets/Window_section/29_slim-9.png",
+        "weight": "1.450 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm SGU Reinforcement Inter Lock",
+        "section": "AA-29012",
+        "src": "/Assets/Window_section/29_slim-10.png",
+        "weight": "3.500 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm DGU Reinforcement Inter Lock",
+        "section": "AA-29013",
+        "src": "/Assets/Window_section/29_slim-11.png",
+        "weight": "3.400 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Double Inter Lock",
+        "section": "AA-29014",
+        "src": "/Assets/Window_section/29_slim-12.png",
+        "weight": "2.280 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "Reducer Cap",
+        "section": "AA-29015",
+        "src": "/Assets/Window_section/29_slim-13.png",
+        "weight": "0.800 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Middle Section",
+        "section": "AA-29016",
+        "src": "/Assets/Window_section/29_slim-14.png",
+        "weight": "2.460 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Meeting Section",
+        "section": "AA-29017",
+        "src": "/Assets/Window_section/29_slim-15.png",
+        "weight": "1.550 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Rail Track (V Type)",
+        "section": "AA-29018",
+        "src": "/Assets/Window_section/29_slim-16.png",
+        "weight": "0.600 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "29mm Round Track Cap",
+        "section": "AA-29019",
+        "src": "/Assets/Window_section/29_slim-17.png",
+        "weight": "0.620 Kg/12'"
+      },
+      {
+        "category": "Slim 29mm",
+        "name": "Georgian Bar",
+        "section": "AA-25024",
+        "src": "/Assets/Window_section/29_slim-18.png",
+        "weight": "0.266 Kg/12'"
+      },          
+{
+"category": "Gulf 29mm",
+"name": "29 mm Gulf 2 Track Top / Bottom",
+"section": "AA-29023",
+"src": "/Assets/Window_section/29_Gulf-1.png",
+"weight": "5.900 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Gulf 2 Track Vertical",
+"section": "AA-29024",
+"src": "/Assets/Window_section/29_Gulf-2.png",
+"weight": "3.900 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Gulf 3 Track Top / Bottom",
+"section": "AA-29025",
+"src": "/Assets/Window_section/29_Gulf-3.png",
+"weight": "8.400 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Gulf 3 Track Vertical",
+"section": "AA-29026",
+"src": "/Assets/Window_section/29_Gulf-4.png",
+"weight": "5.300 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm SGU Shutter",
+"section": "AA-29005",
+"src": "/Assets/Window_section/29_Gulf-5.png",
+"weight": "3.432 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm DGU Shutter",
+"section": "AA-29006",
+"src": "/Assets/Window_section/29_Gulf-6.png",
+"weight": "3.000 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Mosquito Shutter",
+"section": "AA-29007",
+"src": "/Assets/Window_section/29_Gulf-7.png",
+"weight": "3.591 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Mosquito Clip",
+"section": "AA-29008",
+"src": "/Assets/Window_section/29_Gulf-8.png",
+"weight": "0.493 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Inter Clip",
+"section": "AA-29009",
+"src": "/Assets/Window_section/29_Gulf-9.png",
+"weight": "1.356 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Slim SGU Inter Lock",
+"section": "AA-29010",
+"src": "/Assets/Window_section/29_Gulf-10.png",
+"weight": "1.860 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Slim DGU Inter Lock",
+"section": "AA-29011",
+"src": "/Assets/Window_section/29_Gulf-11.png",
+"weight": "1.450 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mmSGU Reinforcement Inter Lock",
+"section": "AA-29012",
+"src": "/Assets/Window_section/29_Gulf-12.png",
+"weight": "3.500 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm DGU Reinforcement Inter Lock",
+"section": "AA-29013",
+"src": "/Assets/Window_section/29_Gulf-13.png",
+"weight": "3.400 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Double Inter Lock",
+"section": "AA-29014",
+"src": "/Assets/Window_section/29_Gulf-14.png",
+"weight": "2.280 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "Reducer Cap",
+"section": "AA-29015",
+"src": "/Assets/Window_section/29_Gulf-15.png",
+"weight": "0.800 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Middle Section",
+"section": "AA-29016",
+"src": "/Assets/Window_section/29_Gulf-16.png",
+"weight": "2.460 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Meeting Section",
+"section": "AA-29017",
+"src": "/Assets/Window_section/29_Gulf-17.png",
+"weight": "1.550 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Rail Track (V Type)",
+"section": "AA-29018",
+"src": "/Assets/Window_section/29_Gulf-18.png",
+"weight": "0.600 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "29 mm Round Track Cap",
+"section": "AA-29019",
+"src": "/Assets/Window_section/29_Gulf-19.png",
+"weight": "0.620 Kg/12'"
+},
+{
+"category": "Gulf 29mm",
+"name": "Georgian Bar",
+"section": "AA-25024",
+"src": "/Assets/Window_section/29_Gulf-20.png",
+"weight": "0.266 Kg/12'"
+},
+
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm Two Track Bottom",
+    "section": "AA-32001",
+    "src": "/Assets/Gulf_section/32_Gulf-1.png",
+    "weight": "6.650 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm Two Track Side",
+     "section": "AA-32002", 
+    "src": "/Assets/Gulf_section/32_Gulf-2.png",
+    "weight": "4.870 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm Three Track Bottom",
+    "section": "AA-32003",
+    "src": "/Assets/Gulf_section/32_Gulf-3.png",
+    "weight": "9.550 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm Three Track Side",
+    "section": "AA-32004",
+    "src": "/Assets/Gulf_section/32_Gulf-4.png",
+    "weight": "6.416 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm DGU Shutter",
+    "section": "AA-32005",
+    "src": "/Assets/Gulf_section/32_Gulf-5.png",
+    "weight": "3.940 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm DGU Top / Bottom",
+    "section": "AA-32006",
+    "src": "/Assets/Gulf_section/32_Gulf-6.png",
+    "weight": "5.630 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm DGU Slim Interlock",
+    "section": "AA-32007",
+    "src": "/Assets/Gulf_section/32_Gulf-7.png",
+    "weight": "3.037 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm DGU Rain Reinforcement Interlock",
+    "src": "/Assets/Gulf_section/32_Gulf-8.png",
+    "weight": "4.543 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm Reducer Cap",
+    "section": "AA-32009",
+    "src": "/Assets/Gulf_section/32_Gulf-9.png",
+    "weight": "0.870 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "32mm Rail Track",
+    "section": "AA-32010",
+    "src": "/Assets/Gulf_section/32_Gulf-10.png",
+    "weight": "0.590 Kg/12'"
+  },
+  {
+    "category": "Gulf 32mm",
+    "name": "Georgian Bar",
+    "section": "AA-32010",
+    "src": "/Assets/Gulf_section/32_Gulf-11.png",
+    "weight": "0.266 Kg/12'"
+  },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Minimal Two Track",
+      "section": "AA-32016",
+      "src": "/Assets/Window_section/32_mini-win-1.png",
+      "weight": "3.790 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Minimal Three Track",
+      "section": "AA-32017",
+      "src": "/Assets/Window_section/32_mini-win-2.png",
+      "weight": "5.500 Kg/12'"
+    },
+    
+    {
+      "category": "Euro 31mm",
+      "name": "31mm Two Track",
+      "section": "AA-31001",
+      "src": "/Assets/Window_section/31_euro-1.png",
+      "weight": "4.500 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "31mm Three Track",
+      "section": "AA-31002",
+      "src": "/Assets/Window_section/31_euro-2.png",
+      "weight": "7.429 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "31mm SGU Shutter",
+      "section": "AA-31003",
+      "src": "/Assets/Window_section/31_euro-3.png",
+      "weight": "3.480 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "31mm SGU Interlock",
+      "section": "AA-31004",
+      "src": "/Assets/Window_section/31_euro-4.png",
+      "weight": "2.417 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "31mm Rain Forcement Interlock",
+      "section": "AA-31005",
+      "src": "/Assets/Window_section/31_euro-5.png",
+      "weight": "4.141 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "Inter Lock Clip",
+      "section": "AA-31006",
+      "src": "/Assets/Window_section/31_euro-6.png",
+      "weight": "1.000 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "Track Cap",
+      "section": "AA-31007",
+      "src": "/Assets/Window_section/31_euro-7.png",
+      "weight": "0.350 Kg/12'"
+    },
+    {
+      "category": "Euro 31mm",
+      "name": "Georgian Bar",
+      "section": "AA-25024",
+      "src": "/Assets/Window_section/31_euro-8.png",
+      "weight": "0.266 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Shutter",
+      "section": "AA-32018",
+      "src": "/Assets/Window_section/32_mini-win-3.png",
+      "weight": "6.416 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Rainforcement Shutter",
+      "section": "AA-32019",
+      "src": "/Assets/Window_section/32_mini-win-4.png",
+      "weight": "4.450 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Top & Bottom",
+      "section": "AA-32020",
+      "src": "/Assets/Window_section/32_mini-win-5.png",
+      "weight": "9.550 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Slim Interlock",
+      "section": "AA-32021",
+      "src": "/Assets/Window_section/32_mini-win-6.png",
+      "weight": "1.850 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Slim Reinforcement Interlock",
+      "section": "AA-32022",
+      "src": "/Assets/Window_section/32_mini-win-7.png",
+      "weight": "3.750 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Meeting Section",
+      "section": "AA-32023",
+      "src": "/Assets/Window_section/32_mini-win-8.png",
+      "weight": "1.360 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "32mm Reducer Cap",
+      "section": "AA-32024",
+      "src": "/Assets/Window_section/32_mini-win-9.png",
+      "weight": "0.650 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": " Track Cap",
+      "section": "AA-32025",
+      "src": "/Assets/Window_section/32_mini-win-10.png",
+      "weight": "0.350 Kg/12'"
+    },
+    {
+      "category": "Minimal 32mm",
+      "name": "Georgian Bar",
+      "section": "AA-25024",
+      "src": "/Assets/Window_section/32_mini-win-11.png",
+      "weight": "0.266 Kg/12'"
+    },
+    
+{
+  "category": "50mm Sliding Folding Series",
+  "name": "Top Guide",
+  "section": "AA-50001",
+  "src": "/Assets/Sliding-window/50_fold-1.png",
+  "weight": "9.300 Kg/12'"
+},
+{
+  "category": "50mm Sliding Folding Series",
+  "name": "Shutter",
+  "section": "AA-50002",
+  "src": "/Assets/Sliding-window/50_fold-2.png",
+  "weight": "4.900 Kg/12'"
+},
+{
+  "category": "50mm Sliding Folding Series",
+  "name": "Bottom",
+  "section": "AA-50003",
+  "src": "/Assets/Sliding-window/50_fold-3.png",
+  "weight": "3.300 Kg/12'"
+},
+{
+  "category": "50mm Sliding Folding Series",
+  "name": "Frame",
+  "section": "AA-50004",
+  "src": "/Assets/Sliding-window/50_fold-4.png",
+  "weight": "4.500 Kg/12'"
+},
+{
+  "category": "50mm Sliding Folding Series",
+  "name": "SGU Glass Clip",
+  "section": "AA-50005",
+  "src": "/Assets/Sliding-window/50_fold-5.png",
+  "weight": "1.100 Kg/12'"
+},
+{
+  "category": "50mm Sliding Folding Series",
+  "name": "DGU Glass Clip",
+  "section": "AA-50006",
+  "src": "/Assets/Sliding-window/50_fold-6.png",
+  "weight": "0.970 Kg/12'"
+}
+]
